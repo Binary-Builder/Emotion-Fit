@@ -1,12 +1,12 @@
-# EmotionFit AI 🧠💪
+# EmotionFit AI
 
-EmotionFit AI is a premium, portfolio-grade, responsive React web application. It integrates real-time somatic facial micro-expression analysis (simulated via service layers) with high-performance physical training protocols. 
+EmotionFit AI is a responsive React web application. It integrates real-time somatic facial micro-expression analysis (simulated via service layers) with high-performance physical training protocols. 
 
 Unlike legacy training planners, EmotionFit AI decodes your physiological and mental bandwidth in seconds. It dynamically calibrates exercise volume, metabolic load, reps, and rest periods to match your active nervous system state.
 
 ---
 
-## 🎨 Visual Aesthetics & UI Design System
+## Visual Aesthetics & UI Design System
 - **Apple & Linear-Inspired Minimalism**: Utilizes spacious negative space, thin borders, elegant modern typography, and a dark slate visual canvas.
 - **Glassmorphism Layering**: Blur filters (`backdrop-filter`) blended with low-opacity card highlights to create layered structural hierarchy.
 - **Micro-Animations & Transitions**: Leverages Framer Motion for smooth route transitions, active set tracking checkmarks, card floating lifts, and sliding needles.
@@ -14,7 +14,7 @@ Unlike legacy training planners, EmotionFit AI decodes your physiological and me
 
 ---
 
-## 🚀 Features & Modules
+## Features & Modules
 
 ### 1. **Aura Mood Scan (Computer Vision Viewport)**
 - Fully functional HTML5 Webcam capture utilizing `navigator.mediaDevices.getUserMedia` and `<canvas>` frame mapping.
@@ -51,7 +51,7 @@ Unlike legacy training planners, EmotionFit AI decodes your physiological and me
 
 ---
 
-## 🛠️ Technological Stack
+## Technological Stack
 - **Library**: React 19 + TypeScript (strict types declared in `types/types.ts`)
 - **Build System**: Vite 6.x
 - **Styles**: Tailwind CSS v4 (incorporating `@theme` variables inside native CSS)
@@ -62,7 +62,7 @@ Unlike legacy training planners, EmotionFit AI decodes your physiological and me
 
 ---
 
-## 📂 Project Directory Structure
+## Project Directory Structure
 ```
 src/
  ├── components/
@@ -93,7 +93,7 @@ src/
 
 ---
 
-## ⚙️ Installation & Local Development
+## Installation & Local Development
 
 ### 1. Prerequisite
 Ensure you have [Node.js](https://nodejs.org/) (v18+) installed.
@@ -111,7 +111,7 @@ The server binds to port `3000` on your host. Open your web browser at `http://l
 
 ---
 
-## 📦 Deployment to GitHub Pages
+## Deployment to GitHub Pages
 
 To compile and deploy this React application directly to GitHub Pages:
 
@@ -134,5 +134,5 @@ This produces optimized production static assets inside the `dist/` directory.
 
 ---
 
-## 📝 License
+## License
 Distributed under the Apache-2.0 License. See `LICENSE` or contact the administrator for permissions.
