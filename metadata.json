@@ -1,0 +1,6 @@
+{
+  "name": "EmotionFit AI",
+  "description": "Premium AI-powered fitness platform that matches your emotional state to the perfect custom-tailored workout routine.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
